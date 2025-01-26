@@ -1,4 +1,4 @@
-# Zomato Data Analyst Project 📊🍴
+# Zomato Data Analyst Project 📊
 
 ## Overview
 This project involves analyzing Zomato's restaurant data to extract meaningful insights and trends that can help drive business decisions. The dataset includes information about restaurants, cuisines, locations, ratings, and more. The analysis focuses on deriving actionable insights to enhance customer satisfaction, optimize operations, and identify growth opportunities.
